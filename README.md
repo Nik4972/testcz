@@ -11,7 +11,7 @@ Apache/2.4.18 (Ubuntu)
 Содержит страницу авторизации и регистрации
 http://joxi.ru/xAenyB6ip0anbr
 
-При авторизации (например ivanov/ivanov)
+При авторизации (например ivanov / ivanov)
 получаем страницу с персональными данными
 и магазин для совершения покупок
 http://joxi.ru/xAenyB6ip0aqbr 
@@ -20,7 +20,7 @@ http://joxi.ru/xAenyB6ip0aqbr
 с привязкой карты лояльности
 http://joxi.ru/823aWvEfJZGbxr
 
-При авторизации с правами Администратор
+При авторизации с правами Администратор (admin / admin)
 получаем страницу с отчетами
 http://joxi.ru/GrqblGxUQpJlnm
 с возможностью экспорта в EXCEL
